@@ -1,4 +1,4 @@
-var user = {
+var user = { 
     id: 7,
     name: {
         firstName: "Nikolay",
